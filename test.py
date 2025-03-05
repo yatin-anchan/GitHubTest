@@ -8,3 +8,6 @@ def generate_passworld():
         result += random_letter
     print(result)
 generate_passworld()
+
+for i in range(5):
+    print("Hello World")
